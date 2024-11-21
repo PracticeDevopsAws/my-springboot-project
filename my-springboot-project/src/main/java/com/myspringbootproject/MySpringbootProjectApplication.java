@@ -9,7 +9,7 @@ public class MySpringbootProjectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MySpringbootProjectApplication.class, args);
 		
-		System.out.println("MySpringbootProjectApplication running in jenkin ..!.");
+		System.out.println("MySpringbootProjectApplication running in jenkin ..! ");
 	}
 
 }
